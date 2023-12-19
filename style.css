@@ -1,0 +1,554 @@
+* {
+    margin: 0;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.one {
+    /* position: absolute; */
+    width: 1263px;
+    height: 790px;
+    background-color: rgb(247, 249, 250);
+}
+
+.two {
+    padding-top: 24px;
+    margin-left: 32px;
+}
+
+.three {
+    margin-left: 610px;
+    margin-top: -50px;
+    position: absolute;
+    display: flex;
+
+}
+
+.three a {
+    font-size: 17px;
+    text-decoration: none;
+    font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: 450;
+    color: rgb(50, 48, 48);
+}
+
+.three a:hover {
+    color: blue;
+}
+
+details {
+    width: 100px;
+    margin-left: 50px;
+    height: 100px;
+}
+
+.five {
+    margin-left: 8px;
+}
+
+.five a {
+    margin-left: 50px;
+}
+
+.six {
+    background-color: rgb(89, 0, 255);
+    height: 48px;
+    text-align: center;
+    display: grid;
+    place-items: center;
+    margin-top: 12px;
+}
+
+.six a {
+    color: white;
+    text-decoration: none;
+    font-size: 14.5px;
+    font-weight: 425;
+}
+
+.six a:hover {
+    color: rgb(239, 235, 235);
+}
+
+.seven {
+    width: 450px;
+    height: 500px;
+    margin-top: 40px;
+    margin-left: 25px;
+}
+
+.sevenone h1 {
+    color: rgb(29, 29, 67);
+    font-size: 47px;
+    line-height: 65px;
+    font-weight: 550;
+    letter-spacing: -0.5px;
+}
+
+.eight {
+    display: flex;
+    margin-left: -22px;
+    margin-top: 25px;
+}
+
+.eight img {
+    width: 200px;
+    height: 100px;
+}
+
+.nine {
+    width: 340px;
+    height: 550px;
+    border: 1px solid rgb(153, 170, 180);
+    margin-left: 490px;
+    margin-top: -475px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1.5px rgb(213, 235, 247);
+}
+
+.nineone {
+    margin-left: 180px;
+    margin-top: -125px;
+}
+
+.ten {
+    width: 340px;
+    height: 550px;
+    border: 1px solid rgb(153, 170, 180);
+    margin-left: 852px;
+    margin-top: -580px;
+    border-radius: 20px;
+    background-color: white;
+    box-shadow: 1px 1px 1px 1.5px rgb(213, 235, 247);
+}
+
+.eleven p {
+    font-size: 14.5px;
+    font-weight: 550;
+    color: rgb(44, 43, 43);
+    text-align: center;
+    margin-top: 70px;
+}
+
+.thartin p {
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 550;
+    color: grey;
+    text-align: center;
+    margin-top: 50px;
+}
+
+.fourtin {
+    width: 1263px;
+    height: 240px;
+    background-color: rgb(247, 249, 250);
+    margin-top: 50px;
+}
+
+.fourtin p {
+    font-size: 14.5px;
+    font-weight: 550;
+    color: rgb(44, 43, 43);
+    text-align: center;
+    padding-top: 50px;
+}
+
+.fiftin h1 {
+    text-align: center;
+    font-size: 43px;
+    font-weight: 600;
+}
+
+.fiftin {
+    margin-top: 100px;
+}
+
+.sixtin p {
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 550;
+    color: grey;
+    text-align: center;
+    margin-top: 40px;
+}
+
+.seventin {
+    text-align: center;
+}
+
+.seventin button {
+    margin-left: 25px;
+}
+
+.eighttin img {
+    position: absolute;
+}
+
+.ninetinone p {
+    position: relative;
+    font-size: 18px;
+    font-weight: 550;
+    color: rgb(219, 228, 236);
+    margin-top: -195px;
+    margin-left: 150px;
+}
+
+.ninetintwo p {
+    position: relative;
+    font-size: 32px;
+    font-weight: 550;
+    color: white;
+    font-weight: 650;
+    margin-top: 15px;
+    margin-left: 150px;
+}
+
+.ninetinthree img {
+    position: relative;
+    width: 310px;
+    height: 165px;
+    margin-top: 35px;
+    margin-left: 120px;
+}
+
+.ninetinfour img {
+    position: relative;
+    width: 618px;
+    height: 400px;
+    margin-top: -440px;
+    margin-left: 600px;
+}
+
+.tont h1 {
+    color: rgb(29, 29, 67);
+    font-size: 46px;
+    line-height: 65px;
+    font-weight: 630;
+    letter-spacing: -0.5px;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.tonty {
+    width: 1200px;
+    height: 690px;
+    border: 1px solid lightskyblue;
+    border-radius: 30px;
+    margin-left: 31.5px;
+    margin-top: 45px;
+    background-color: rgb(250, 250, 250);
+}
+
+.tontyone {
+    width: 390px;
+    height: 260px;
+    /* border: 1px solid black; */
+    margin-left: 30px;
+    margin-top: 60px;
+    text-align: center;
+
+}
+
+.tontyone p {
+    color: rgb(85, 83, 83);
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.tonttwo {
+    display: flex;
+}
+
+.tonttwo,
+.card {
+    margin-left: 15px;
+}
+
+.p p {
+    font-size: 15px;
+    letter-spacing: 1px;
+    font-weight: 550;
+    color: grey;
+    text-align: center;
+    margin-top: 15px;
+}
+
+.tontytwo {
+    width: 390px;
+    height: 260px;
+    /* border: 1px solid black; */
+    margin-left: 30px;
+    margin-top: 45px;
+    text-align: center;
+
+}
+
+.tontytwo p {
+    color: rgb(85, 83, 83);
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.tontyfour {
+    width: 390px;
+    height: 260px;
+    /* border: 1px solid black; */
+    margin-left: 770px;
+    margin-top: -485px;
+    text-align: center;
+
+}
+
+.tontyfour p {
+    color: rgb(85, 83, 83);
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.tontyfive {
+    width: 390px;
+    height: 260px;
+    /* border: 1px solid black; */
+    margin-left: 770px;
+    margin-top: 45px;
+    text-align: center;
+
+}
+
+.tontyfive p {
+    /* color: rgb(85, 83, 83); */
+    font-size: 17px;
+    font-weight: 600;
+}
+
+.hear h1 {
+    color: rgb(29, 29, 67);
+    font-size: 46px;
+    line-height: 65px;
+    font-weight: 630;
+    letter-spacing: -0.5px;
+    margin-top: 100px;
+    margin-left: 30px;
+}
+
+.hearone {
+    display: flex;
+    margin-top: 60px;
+}
+
+.hearone figure {
+    margin-left: 30px;
+}
+
+.masterone {
+    width: 1263px;
+    height: 1250px;
+    background-color: rgb(18, 45, 112);
+    margin-left: -32px;
+    margin-top: 80px;
+}
+
+.masterone h1 {
+    color: white;
+    font-size: 46px;
+    line-height: 65px;
+    font-weight: 620;
+    letter-spacing: -0.5px;
+    padding-top: 100px;
+    margin-left: 20px;
+}
+
+.masterone p {
+    color: rgb(174, 171, 171);
+    font-size: 18px;
+    line-height: 40px;
+    letter-spacing: 1px;
+    font-weight: 550;
+    padding-top: 10px;
+    margin-left: 20px;
+}
+
+.rakesh {
+    margin-left: 675px;
+    margin-top: -485px;
+}
+
+.machine {
+    display: flex;
+}
+
+.machine,
+.card {
+    margin-left: 15px;
+}
+
+.mentor h1 {
+    margin-top: 60px;
+    color: rgb(29, 29, 67);
+    font-size: 40px;
+}
+
+.mentor p {
+    margin-top: 20px;
+    font-size: 17.5px;
+    font-weight: 390;
+    line-height: 35px;
+}
+
+.ors img {
+    margin-left: 40px;
+}
+
+.the {
+    display: flex;
+    margin-left: 15px;
+}
+
+.footer {
+    width: 1263px;
+    height: 1180px;
+    background-color: rgb(18, 45, 112);
+    margin-left: -32px;
+    margin-top: 100px;
+}
+
+.footer a:hover {
+    color: white
+}
+
+.read p {
+    margin-left: 56.5px;
+    margin-top: 50px;
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.quick p {
+    margin-left: 380px;
+    margin-top: -260px;
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.quick a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-left: 380px;
+    margin-top: 15px;
+    display: block;
+}
+
+.quickone a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-left: 550px;
+    margin-top: 15px;
+    display: block;
+}
+
+.Method p {
+    margin-left: 860px;
+    margin-top: -275px;
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.visa img {
+    margin-left: 50px;
+}
+
+.rozar img {
+    margin-left: 50px;
+}
+
+.we a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-top: 40px;
+    display: block;
+}
+
+.face {
+    margin-top: 40px;
+    margin-left: 56.5px;
+}
+
+.face a {
+    margin-left: 20px;
+}
+
+.faceone a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-top: 40px;
+    margin-left: 100px;
+}
+
+.faceones a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-top: 100px;
+    margin-left: 50px;
+}
+
+.footfinal p {
+    margin-left: 56.5px;
+    margin-top: 50px;
+    color: grey;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.f a {
+    text-decoration: none;
+    margin-left: 56.5px;
+    margin-top: 50px;
+    color: grey;
+    font-weight: 550;
+    font-size: 19px;
+}
+
+.hydra a {
+    text-decoration: none;
+    color: grey;
+    font-size: 17px;
+    font-weight: 550;
+    margin-top: 40px;
+    line-height: 30px;
+}
+
+.fa a {
+    text-decoration: none;
+    margin-left: 56.5px;
+    margin-top: 50px;
+    color: grey;
+    font-weight: 550;
+    font-size: 19px;
+}
+
+.whatsapp {
+    position: absolute;
+    position: fixed;
+    top: 460px;
+    margin-left: 1030px;
+    background-color: rgb(51, 171, 51);
+    display: grid;
+    place-items: center;
+    display: flex;
+    padding: 3px 26px 3px 26px;
+    border-radius: 60px;
+}

@@ -1,0 +1,144 @@
+* {
+    margin: 0;
+
+}
+
+.one {
+    width: 50%;
+    height: 100vh;
+    background-color: rgb(248, 252, 255);
+    box-shadow: 1px 1px 5px 1px rgb(202, 206, 210);
+    /* display: grid;
+    place-items: center; */
+}
+
+.two {
+    padding-top: 75px;
+    margin-left: 275px;
+}
+
+.three {
+    background-color: white;
+    width: 450px;
+    height: 325px;
+    border: 1px solid lightskyblue;
+    margin-top: 40px;
+    margin-left: -180px;
+    border-radius: 20px;
+    box-shadow: 1px 1px 5px 2px rgb(198, 226, 243);
+
+}
+
+.three h2 {
+    font-size: 30px;
+    font-weight: 400;
+    margin-top: 50px;
+    margin-left: 125px;
+    color: rgb(49, 48, 48);
+}
+
+.in select {
+    display: block;
+    margin-left: 50px;
+    margin-top: 10px;
+    padding: 7px 30px 7px 30px;
+    border: 1px solid red;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px
+}
+
+.oneone {
+    width: 50%;
+    height: 100vh;
+    margin-left: 50%;
+    margin-top: -100vh;
+}
+
+.succus h2 {
+    font-size: 25px;
+    font-weight: 650;
+    letter-spacing: 1px;
+    line-height: 38px;
+}
+
+.marq {
+    width: 100%;
+    height: 225px;
+    margin-top: 60px;
+    background-image: linear-gradient(90deg, white, rgb(196, 240, 255), white);
+    color: lightblue;
+}
+
+.marone {
+    width: 640px;
+    height: 112.5px;
+    margin-left: 0px;
+    padding-top: 3px;
+}
+
+.martwo {
+    width: 640px;
+    height: 112.5px;
+    margin-left: 0px;
+    padding-top: 10px;
+}
+
+.mone {
+    width: 220px;
+    height: 93px;
+    margin-top: 11px;
+    border: 1px solid grey;
+    margin-left: 0px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.mtwo {
+    width: 220px;
+    height: 93px;
+    margin-top: -98px;
+    border: 1px solid grey;
+    margin-left: 245px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.mthree {
+    width: 220px;
+    height: 93px;
+    margin-top: -92px;
+    border: 1px solid grey;
+    margin-left: 490px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.mfour {
+    width: 220px;
+    height: 93px;
+    margin-top: -4px;
+    border: 1px solid grey;
+    margin-left: 0px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.mfive {
+    width: 220px;
+    height: 93px;
+    margin-top: -107.5px;
+    border: 1px solid grey;
+    margin-left: 245px;
+    border-radius: 20px;
+    background-color: white;
+}
+
+.msix {
+    width: 220px;
+    height: 93px;
+    margin-top: -92px;
+    border: 1px solid grey;
+    margin-left: 490px;
+    border-radius: 20px;
+    background-color: white;
+}
